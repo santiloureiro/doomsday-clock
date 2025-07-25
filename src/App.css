@@ -128,7 +128,7 @@ section:after {
   .blood-splatter {
     height: 6rem;
     top: 37px;
-    left: 23%;
+    left: 8%;
   }
 .label-text {
   font-weight: 500;
@@ -140,7 +140,7 @@ section:after {
   .blood-splatter {
     height: 10rem;
     top: 15px;
-    left: 16%;
+    left: -16%;
   }
 
   .label-text {
